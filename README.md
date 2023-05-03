@@ -6,9 +6,6 @@ Hi, I'm Rathish Sekhar - a data science professional who has navigated my way to
 
 
 
-**rathishsekhar/rathishsekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I’m currently working on CNNs
 - 🌱 I’m currently learning: Deep Learning - LSTMs, Deep RNN, GANs etc. 
