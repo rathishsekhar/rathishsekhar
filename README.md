@@ -7,7 +7,7 @@ Hi, I'm Rathish Sekhar - a data science professional who has navigated my way to
 
 
 
-- 🔭 I’m currently working on CNNs
+- 🔭 I’m currently looking for a suitable job
 - 🌱 I’m currently learning: Deep Learning - LSTMs, Deep RNN, GANs etc. 
 - 👯 I’m looking to collaborate on Datasciences for social good
 - 💬 Talk to me about: Data sciences - its impact on society, plants - ecology and sustainability
