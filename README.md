@@ -8,7 +8,7 @@ Hi, I'm Rathish Sekhar - a data science professional who has navigated my way to
 
 
 - 🔭 I’m currently available for suitable data professional roles. 
-- 🌱 I’m currently learning: Deep Learning - Large Language Models and implementing them. 
+- 🌱 I’m currently learning: Deep Learning - Large Language Models and implementation. 
 - 👯 I’m looking to collaborate on Datasciences for social good
 - 💬 Talk to me about: Data sciences - its impact on society, plants - ecology and sustainability
 - 😄 Pronouns: He/Him
